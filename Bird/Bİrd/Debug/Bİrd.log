@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mehme\source\repos\Games\Bird\Bİrd\main.cpp(118,15): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\source\repos\Games\Bird\Bİrd\main.cpp(119,17): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Bİrd.vcxproj -> C:\Users\mehme\source\repos\Games\Bird\Debug\Bİrd.exe

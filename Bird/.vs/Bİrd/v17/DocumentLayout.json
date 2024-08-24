@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\barrier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|solutionrelative:B\u0130rd\\barrier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\bird.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|solutionrelative:B\u0130rd\\bird.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|solutionrelative:B\u0130rd\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88CFE38-7899-4E3E-8F7C-EF9EAAB5DD9F}|B\u0130rd\\B\u0130rd.vcxproj|solutionrelative:B\u0130rd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\main.cpp",
+              "RelativeDocumentMoniker": "B\u0130rd\\main.cpp",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\main.cpp",
+              "RelativeToolTip": "B\u0130rd\\main.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T14:44:08.862Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\functions.cpp",
+              "RelativeDocumentMoniker": "B\u0130rd\\functions.cpp",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\functions.cpp",
+              "RelativeToolTip": "B\u0130rd\\functions.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T17:46:39.447Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bird.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\bird.cpp",
+              "RelativeDocumentMoniker": "B\u0130rd\\bird.cpp",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\bird.cpp",
+              "RelativeToolTip": "B\u0130rd\\bird.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T14:48:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "barrier.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\barrier.cpp",
+              "RelativeDocumentMoniker": "B\u0130rd\\barrier.cpp",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Games\\Bird\\B\u0130rd\\barrier.cpp",
+              "RelativeToolTip": "B\u0130rd\\barrier.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T14:48:18.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
